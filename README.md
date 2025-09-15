@@ -1,1 +1,1 @@
-# Reinforcement-Learning
+Python implementations of two classic Reinforcement Learning algorithms, Q-Learning and SARSA, to solve the "CliffWalking-v0" environment from OpenAI Gym.
