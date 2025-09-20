@@ -385,7 +385,7 @@ $$v(B) = \frac{(-0.225) \times (-3.25) + 0.55 \times 1.75}{0.251875} = \frac{-0.
 
 **Update Rule:** 
 
-$v_{k+1}(s) = \max_a [r(s,a) + \gamma v_k(\text{next_state})]$
+v_{k+1}(s) = max_a [r(s,a) + γv_k(next_state)]
 
 ### **Iteration Sequence:**
 
